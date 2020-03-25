@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Tenant Law under COVID-19](README.md)
 
