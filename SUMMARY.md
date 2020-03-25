@@ -5,4 +5,5 @@
 ## Eviction Moratoriums
 
 * [Statewide](eviction-moratoriums/statewide.md)
+* [Shelter In Place](shelter-in-place.md)
 
