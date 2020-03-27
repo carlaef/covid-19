@@ -1,4 +1,4 @@
-# Tenant Law under COVID-19
+# California COVID-19 Law Project
 
 Welcome to the COVID-19 Lawsplainer for Californians. This is a collaboratively editable site organized by [Victoria Fierce](https://twitter.com/akronisticlotor) at [California Renters Legal Advocacy and Education Fund](https://carlaef.org/). This is a community project by Californians, for Californians, and we welcome your contributions wholeheartedly with vigor. If you have suggestions or changes to make, [please either open a Pull Request or submit a new Issue on the project's github repository](https://github.com/carlaef/covid-19). If you have vital information but can't figure out GitHub, please contact Victoria via email to victoria@carlaef.org or hassle her on twitter.
 
